@@ -1,0 +1,65 @@
+#logo{
+    text-align: center;
+    background-color: yellowgreen;
+    border-radius: 10% 0% 10% 0%;
+}
+
+/* botão de busca menu */
+#divBusca{
+    background-color:#e0eceead;
+    border:solid 2px #5fa072da;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+    position:static;
+    padding-right: 74%;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+  }
+  
+  #btnBusca{
+    border:none;
+    float:right;
+    height:32px;
+    border-radius:7px 7px 7px 7px;
+    width:70px;
+    font-weight:bold;
+    background:#90a05f;
+  }
+  
+  #divBusca img{
+    float:left;
+  }
+
+  /* botão de busca menu */
+   
+  /* Filmes em cartaz */
+    .emCartaz{
+    
+    overflow: hidden;
+    margin-bottom: 18px;}
+
+    .emCartaz ul{
+    width: 670px !important;
+    margin: 0 auto;
+    }
+    
+    .emCartaz ul li{
+    float: left;
+    display: inline;
+    width: 142px;
+    height: 270px;
+    margin-right: 9.5px;
+    padding: 8px;
+    position: relative;
+    overflow: hidden;
+    }
+  /* Filmes em cartaz */
